@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saranga lahiru</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<a href="https://www.sab.ac.lk" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUsrCyiN0wp-KABRIXGlhQyqlj-9nuAwEGY5tJ7ZizQA&s" alt="Sabaragamuwa University" height="30" width="40" /></a>
+<a href="https://www.sab.ac.lk" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUsrCyiN0wp-KABRIXGlhQyqlj-9nuAwEGY5tJ7ZizQA&s" alt="Sabaragamuwa University" height="40" width="40" />Sabaragamuwa University of Sri lanka</a>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" align="right" alt="sarangalahiru" />
 
